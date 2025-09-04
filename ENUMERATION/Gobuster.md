@@ -11,4 +11,4 @@ gobuster dir -u https://fire.windcorp.thm -w /usr/share/wordlists/dirbuster/dire
 The interesting thing here is `/powershell/default.aspx?ReturnUrl=%2fpowershell]`.
 
 
-**Next step:** [[Web server]]
+**Next step:** [[Web server fire.windcorp.thm]]
