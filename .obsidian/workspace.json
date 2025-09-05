@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/DNS exploitation.md",
+                "file": "EXPLOITATION/Responder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DNS exploitation"
+              "title": "Outline of Responder"
             }
           },
           {
@@ -350,15 +350,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4ab039a5562bbf18",
+  "active": "8f5abedacd025360",
   "lastOpenFiles": [
+    "EXPLOITATION/DNS exploitation.md",
+    "DNS exploitation-20250905192428760.webp",
+    "images/DNS exploitation-20250905191555720.webp",
+    "images/DNS exploitation-20250905191618544.webp",
+    "images/DNS exploitation-20250905191610104.webp",
     "EXPLOITATION/First flag.md",
     "EXPLOITATION/Responder.md",
     "EXPLOITATION/Certificate.md",
     "ENUMERATION/Web server fire.windcorp.thm.md",
     "ENUMERATION/Gobuster.md",
     "ENUMERATION/Web Server selfservice.windcorp.thm.md",
-    "EXPLOITATION/DNS exploitation.md",
     "images/DNS exploitation-20250905120651351.webp",
     "images/DNS exploitation-20250905120034193.webp",
     "ENUMERATION/Nmap.md",
@@ -366,11 +370,7 @@
     "images/DNS exploitation-20250905111019689.webp",
     "images/First flag-20250905105646951.webp",
     "images/First flag-20250905104557895.webp",
-    "images/Web Server selfservice.windcorp.thm-20250904193905028.webp",
-    "images/Certificate-20250904202832731.webp",
     "EXPLOITATION",
-    "images/Web Server selfservice.windcorp.thm-20250904193802993.webp",
-    "images/Web Server selfservice.windcorp.thm-20250904193639227.webp",
     "images",
     "ENUMERATION",
     "README.md",
@@ -396,7 +396,6 @@
     "EXPLOITATION/Hmailserver.md",
     "EXPLOITATION/Flag Submission.md",
     "PRIVILEGE ESCALATION/Sing user privileges.md",
-    "PRIVILEGE ESCALATION/Getting root.md",
-    "PWND/Find the passwords.md"
+    "PRIVILEGE ESCALATION/Getting root.md"
   ]
 }
