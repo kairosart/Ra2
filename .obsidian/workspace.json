@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Web server fire.windcorp.thm.md",
+                "file": "EXPLOITATION/Certificate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Web server fire.windcorp.thm"
+              "title": "Certificate"
             }
           },
           {
@@ -68,22 +68,37 @@
             }
           },
           {
-            "id": "4ab039a5562bbf18",
+            "id": "8f5abedacd025360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificate.md",
+                "file": "EXPLOITATION/Responder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Certificate"
+              "title": "Responder"
+            }
+          },
+          {
+            "id": "4ab039a5562bbf18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/DNS exploitation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS exploitation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificate.md",
+                "file": "EXPLOITATION/DNS exploitation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Certificate"
+              "title": "Outline of DNS exploitation"
             }
           },
           {
@@ -337,23 +352,26 @@
   },
   "active": "4ab039a5562bbf18",
   "lastOpenFiles": [
+    "EXPLOITATION/First flag.md",
+    "EXPLOITATION/Responder.md",
+    "EXPLOITATION/Certificate.md",
+    "ENUMERATION/Web server fire.windcorp.thm.md",
+    "ENUMERATION/Gobuster.md",
     "ENUMERATION/Web Server selfservice.windcorp.thm.md",
-    "Certificate.md",
+    "EXPLOITATION/DNS exploitation.md",
+    "images/DNS exploitation-20250905120651351.webp",
+    "images/DNS exploitation-20250905120034193.webp",
+    "ENUMERATION/Nmap.md",
+    "images/DNS exploitation-20250905114949374.webp",
+    "images/DNS exploitation-20250905111019689.webp",
+    "images/First flag-20250905105646951.webp",
+    "images/First flag-20250905104557895.webp",
     "images/Web Server selfservice.windcorp.thm-20250904193905028.webp",
     "images/Certificate-20250904202832731.webp",
     "EXPLOITATION",
     "images/Web Server selfservice.windcorp.thm-20250904193802993.webp",
     "images/Web Server selfservice.windcorp.thm-20250904193639227.webp",
-    "ENUMERATION/Web server fire.windcorp.thm.md",
-    "ENUMERATION/Nmap.md",
-    "images/Web server fire.windcorp.thm-20250904192312852.webp",
-    "images/Web server fire.windcorp.thm-20250904114608129.webp",
-    "images/Web Server selfservice.windcorp.thm-20250904113326560.webp",
-    "ENUMERATION/Gobuster.md",
-    "images/Web server-20250903212259106.webp",
-    "images/Gobuster-20250903211749240.webp",
     "images",
-    "images/Nmap-20250903200810941.webp",
     "ENUMERATION",
     "README.md",
     "PRIVILEGE ESCALATION/User's privileges.md",
@@ -379,8 +397,6 @@
     "EXPLOITATION/Flag Submission.md",
     "PRIVILEGE ESCALATION/Sing user privileges.md",
     "PRIVILEGE ESCALATION/Getting root.md",
-    "PWND/Find the passwords.md",
-    "EXPLOITATION/Reverse Shell.md",
-    "EXPLOITATION/SMB testing.md"
+    "PWND/Find the passwords.md"
   ]
 }
