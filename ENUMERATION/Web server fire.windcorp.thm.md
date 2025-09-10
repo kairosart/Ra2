@@ -57,4 +57,5 @@ happymeercat399@fire.windcorp.thm
 orangegorilla428@fire.windcorp.thm
 
 
-**Next step:** [[Web Server selfservice.windcorp.thm-20250904113326560.webp]]
+**Next step:** [[Web Server selfservice.windcorp.thm]]
+

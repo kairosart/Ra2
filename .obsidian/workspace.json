@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/DNS exploitation.md",
+                "file": "PRIVILEGE ESCALATION/Thrid flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DNS exploitation"
+              "title": "Thrid flag"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Web Server selfservice.windcorp.thm.md",
+                "file": "PRIVILEGE ESCALATION/Thrid flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Web Server selfservice.windcorp.thm"
+              "title": "Thrid flag"
             }
           },
           {
@@ -73,32 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Responder.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Responder"
-            }
-          },
-          {
-            "id": "4ab039a5562bbf18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXPLOITATION/Responder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Responder"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Responder.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Responder"
+              "title": "Outline of index"
             }
           },
           {
@@ -350,40 +335,45 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dff4c984d79ec35a",
+  "active": "8f5abedacd025360",
   "lastOpenFiles": [
-    "EXPLOITATION/First flag.md",
+    "PRIVILEGE ESCALATION/User's privileges.md",
+    "PRIVILEGE ESCALATION/Thrid flag.md",
+    "PRIVILEGE ESCALATION/Reverse shell.md",
+    "EXPLOITATION/Second flag.md",
     "EXPLOITATION/Responder.md",
-    "images/Responder-20250908205503342.webp",
-    "images/Responder-20250908205242875.webp",
-    "images/Responder-20250908205150271.webp",
-    "ENUMERATION/Web Server selfservice.windcorp.thm.md",
-    "ENUMERATION/Gobuster.md",
+    "EXPLOITATION/First flag.md",
     "EXPLOITATION/DNS exploitation.md",
+    "EXPLOITATION/Cracking the hash.md",
     "EXPLOITATION/Certificate.md",
-    "ENUMERATION/Nmap.md",
-    "images/Responder-20250908112205867.webp",
-    "images/DNS exploitation-20250905192428760.webp",
-    "images/DNS exploitation-20250905191555720.webp",
-    "images/DNS exploitation-20250905191618544.webp",
-    "images/DNS exploitation-20250905191610104.webp",
+    "EXPLOITATION/Accessing Windows Powershell.md",
+    "ENUMERATION/Web Server selfservice.windcorp.thm.md",
     "ENUMERATION/Web server fire.windcorp.thm.md",
-    "images/DNS exploitation-20250905120651351.webp",
-    "images/DNS exploitation-20250905120034193.webp",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Gobuster.md",
+    "index.md",
+    "docs",
+    "Untitled Folder",
+    "images/Ra2.png",
+    "images/Desktop files.png",
+    "images/Screenshot from 2025-09-10 11-28-02-1.png",
+    "images/Screenshot from 2025-09-10 11-28-02.png",
+    "images/Screenshot from 2025-09-10 11-25-09 1.png",
+    "images/Screenshot from 2025-09-10 11-25-09.png",
+    "images/Screenshot from 2025-09-10 11-22-57.png",
+    "images/Screenshot from 2025-09-10 11-07-45.png",
+    "images/User's privileges-20250909115042113.webp",
+    "PRIVILEGE ESCALATION",
+    "images/Accessing Windows Powershell-20250909113833119.webp",
     "EXPLOITATION",
     "images",
     "ENUMERATION",
     "README.md",
-    "PRIVILEGE ESCALATION/User's privileges.md",
     "PRIVILEGE ESCALATION/Exploiting ESC1 vulnerable template.md",
-    "index.md",
     "docs/lib/metadata.json",
     "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
     "PRIVILEGE ESCALATION/RDP logging as NEWADMINISTRATOR.md",
     "EXPLOITATION/RDP (First flag).md",
     "EXPLOITATION/Attack Path.md",
@@ -391,11 +381,6 @@
     "PRIVILEGE ESCALATION/Exploitation with Certipy.md",
     "EXPLOITATION/SMB shares.md",
     "EXPLOITATION/Force the username list against SMB.md",
-    "ENUMERATION/Ports 25 and 587.md",
-    "ENUMERATION/Web server.md",
-    "EXPLOITATION/Hmailserver.md",
-    "EXPLOITATION/Flag Submission.md",
-    "PRIVILEGE ESCALATION/Sing user privileges.md",
-    "PRIVILEGE ESCALATION/Getting root.md"
+    "ENUMERATION/Ports 25 and 587.md"
   ]
 }

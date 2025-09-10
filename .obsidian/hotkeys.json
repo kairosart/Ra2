@@ -25,5 +25,14 @@
       ],
       "key": "C"
     }
+  ],
+  "image-converter:open-image-converter-settings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }
