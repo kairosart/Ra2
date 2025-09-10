@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "PRIVILEGE ESCALATION/Thrid flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Thrid flag"
             }
           }
         ],
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "PRIVILEGE ESCALATION/Thrid flag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Thrid flag"
             }
           },
           {
@@ -337,6 +337,10 @@
   },
   "active": "8f5abedacd025360",
   "lastOpenFiles": [
+    "PRIVILEGE ESCALATION/Reverse shell.md",
+    "PRIVILEGE ESCALATION/User's privileges.md",
+    "EXPLOITATION/Second flag.md",
+    "index.md",
     "docs/lib/metadata.json",
     "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
@@ -348,8 +352,6 @@
     "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
     "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/lib/fonts/085cb93e613ba3d40d2b.woff2",
-    "EXPLOITATION/Second flag.md",
     "EXPLOITATION/Responder.md",
     "EXPLOITATION/First flag.md",
     "EXPLOITATION/DNS exploitation.md",
@@ -360,10 +362,7 @@
     "ENUMERATION/Web server fire.windcorp.thm.md",
     "ENUMERATION/Nmap.md",
     "ENUMERATION/Gobuster.md",
-    "index.md",
-    "PRIVILEGE ESCALATION/User's privileges.md",
     "PRIVILEGE ESCALATION/Thrid flag.md",
-    "PRIVILEGE ESCALATION/Reverse shell.md",
     "images/Ra2.png",
     "images/Desktop files.png",
     "images/Screenshot from 2025-09-10 11-28-02-1.png",
